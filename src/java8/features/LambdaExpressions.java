@@ -13,6 +13,6 @@ public class LambdaExpressions {
 //        names.forEach(name -> System.out.println(name.toUpperCase()));
 //        names.replaceAll(String::toUpperCase);
 //        names.forEach(System.out::println);
-        names.stream().filter(name -> name.startsWith("A")).forEach(System.out::println); //method reference
+//        names.stream().filter(name -> name.startsWith("A")).forEach(System.out::println); //method reference
     }
 }

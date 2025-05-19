@@ -1,23 +1,27 @@
 package ruff;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class Ruff {
     public static void main(String[] args) {
-        int[] arr = {13817, 15695, 4474, 8356, 12695, 24341, 8839, 28059, 8337, 3532};
-        int largest = Integer.MIN_VALUE;
-        int secondLargest = Integer.MIN_VALUE;
+        String[] strs = {"eg","ab"};
+        System.out.println(isIsomorphic(strs[0],strs[1]));
+    }
+    public static boolean isIsomorphic(String s, String t) {
+        Map<Character, Character> map = new HashMap<>();
+        for(int i = 0;i<s.length();i++) {
+            map.put(s.charAt(i), t.charAt(i));
+        }
+        StringBuilder duplicate = new StringBuilder();
+        for(int i=0;i<t.length();i++) {
+            duplicate.append(map.get(s.charAt(i)));
+        }
+        if(duplicate.toString().equals(t)) {
+            return true;
+        } else {
+            return false;
+        }
 
-        for(int a: arr) {
-            if(a > largest) {
-                secondLargest = largest;
-                largest = a;
-            }
-            if (a < largest && a > secondLargest) {
-                secondLargest = a;
-            }
-        }
-        if(secondLargest != largest) {
-             System.out.println(-1);
-        }
-        System.out.println(secondLargest);
     }
 }

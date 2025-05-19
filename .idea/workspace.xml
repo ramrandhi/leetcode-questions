@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="07495035-1f0c-402b-9b8f-0a17fd4edfd9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/List/LinkedList/interalImpl/DLLMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/List/LinkedList/interalImpl/DLLMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/List/LinkedList/interalImpl/DoublyLinkedLIst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/List/LinkedList/interalImpl/DoublyLinkedLIst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/recursion/CountZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/recursion/CountZeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/recursionWithArrays/FindArrayisSorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/recursionWithArrays/FindArrayisSorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/arrays/ReArrangeElemtentsBySign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicdsa/arrays/ReArrangeElemtentsBySign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/arrays/Ruff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicdsa/arrays/Ruff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/strings/FindLargestOddNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicdsa/strings/FindLargestOddNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/strings/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicdsa/strings/LongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/features/LambdaExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/features/LambdaExpressions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedlist/implementations/SingleyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedlist/implementations/SinglyLinklyListMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ruff/Ruff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ruff/Ruff.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2v519MCDju1jWC4TkUD4rJchTGl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AnagramStrings.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.BankingSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComparableMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComparatorMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountOfChars.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountZeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Enums.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindAllDuplicateNumbers.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.FindAllMissingNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindArrayisSorted.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindRepetativeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GetTheValueWhichHas1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InplaceMergeSort.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.KMP_Algorithm.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.LambdaExpressions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearSearchWithRecursion.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.LongestCommonPrefix.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.LongestCommonSubSequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestCommonSuffix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSortInPlace.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSortWithRecursion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodReferenceExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MissingNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OpenCloseDifferentBraces.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Permutations.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.PriorityQueueDataStructure.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.QuickSortWithRecursion.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.RemoveCharacterFromString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveStringRecursion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotatedSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ruff.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchInsertPositionBS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SetMatrixZeroes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SinglyLLMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SinglyLinklyListMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubSequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubSetDuplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubSetRecursion.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SwapTwoNodesLinkedList.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ThreeSome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.collections.comparison.comparable.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.collections.list.implementations.SinglyLinklyListMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.objectCloneing.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.firstAndSecondMax.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.oop.constructorsAccess.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ramanjaneyulu/IdeaProjects/leetcode-questions/src/com/collections/list/implementations&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ramanjaneyulu\IdeaProjects\leetcode-questions\src\com\collections\list\implementations" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AnagramStrings">
+    <configuration name="AnagramStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ruff.AnagramStrings" />
+      <module name="leetcode-questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ruff.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankingSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ruff.BankingSystem" />
+      <module name="leetcode-questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ruff.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestCommonSubSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Algorithms.LongestCommonSubSequence" />
+      <module name="leetcode-questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorityQueueDataStructure" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.datastructures.PriorityQueueDataStructure" />
+      <module name="leetcode-questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.datastructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SinglyLLMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.List.LinkedList.interalImpl.SinglyLLMain" />
+      <module name="leetcode-questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collections.List.LinkedList.interalImpl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AnagramStrings" />
+        <item itemvalue="Application.PriorityQueueDataStructure" />
+        <item itemvalue="Application.BankingSystem" />
+        <item itemvalue="Application.SinglyLLMain" />
+        <item itemvalue="Application.LongestCommonSubSequence" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07495035-1f0c-402b-9b8f-0a17fd4edfd9" name="Changes" comment="" />
+      <created>1743419970290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743419970290</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/basicdsa/strings/LongestCommonPrefix.java</url>
+          <line>8</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sorting/cyclicSortQuestions/FindAllMissingNumbers.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sorting/cyclicSortQuestions/FindAllDuplicateNumbers.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sorting/cyclicSortQuestions/FindAllDuplicateNumbers.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/recursionWithArrays/InplaceMergeSort.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java8/features/streams/firstAndSecondMax.java</url>
+          <line>11</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/RecursionWithSortingAlgorithms/QuickSortWithRecursion.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/recursionWithStrings/RemoveCharacterFromString.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/recursionWithArrays/LinearSearchWithRecursion.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/recursionAndIterationWithSubSets/SubSetRecursion.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ruff/BinarySearch.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/recursionWithPermutations/Permutations.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/strings/LongestCommonPrefix.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/strings/LongestCommonSuffix.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ruff/Ruff.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Algorithms/KMP_Algorithm.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Algorithms/LongestCommonSubSequence.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/datastructures/PriorityQueueDataStructure.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ruff/AnagramStrings.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/RecursionWithSortingAlgorithms/MergeSortWithRecursion.java</url>
+          <line>11</line>
+          <properties class="com.RecursionWithSortingAlgorithms.MergeSortWithRecursion" method="mergeSort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/recursion/CountZeros.java</url>
+          <line>10</line>
+          <properties class="com.recursion.CountZeros" method="helperFunction">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/ruff/SwapTwoNodesLinkedList.java</url>
+          <line>13</line>
+          <properties field="head" class="ruff.SwapTwoNodesLinkedList" />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.Integer" memberName="value" />
+        <PinnedItemInfo parentTag="ruff.Node" memberName="data" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>

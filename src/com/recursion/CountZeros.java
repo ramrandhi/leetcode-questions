@@ -2,7 +2,6 @@ package com.recursion;
 
 public class CountZeros {
     public static void main(String[] args) {
-
         System.out.println(countZerosInNumber(30205000));
     }
     public static int countZerosInNumber(int n) {
