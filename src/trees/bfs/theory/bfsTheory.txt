@@ -1,0 +1,10 @@
+Breadth First Search: (this follows a binary tree structure).
+ => This will search from top to down in levels. (goes like 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 )
+              1
+            /   \
+          2     3
+         / \   /  \
+        4   5  6   7
+  WHEN TO USE BREADTH FIRST SEARCH:
+  1. when answer lies near the root node.
+  2. when you are asked to search by levels.

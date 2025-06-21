@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class BubbleSortWithRecursion {
     public static void main(String[] args) {
-        int[] arr = {5,6,7};
+        int[] arr = {5,9,3,6,7};
         bubbleSortWithRecursion(arr, arr.length-1,0);
         System.out.println(Arrays.toString(arr));
     }

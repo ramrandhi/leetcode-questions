@@ -1,4 +1,4 @@
-package collections.List.LinkedList.interalImpl;
+package collections.List.LinkedList.internalImplementations;
 
 public class DoublyLinkedLIst {
 
@@ -85,7 +85,12 @@ public class DoublyLinkedLIst {
             throw new Exception("node is null");
         }
         Node node = new Node(value);
-        
+        node.next = p.next;
+        p.next = node;
+        node.prev = p;
+        if(node.next != null) {
+            node.next.prev = node;
+        }
     }
 
 

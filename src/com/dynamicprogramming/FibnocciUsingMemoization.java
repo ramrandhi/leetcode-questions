@@ -4,7 +4,7 @@ import java.util.HashMap;
 
 public class FibnocciUsingMemoization {
     public static void main(String [] args){
-        System.out.println(fibonaccieUsingMemoization(6));
+        System.out.println(fibonaccieUsingMemoization(200));
     }
 
     public static int fibonaccieUsingMemoization(int num){

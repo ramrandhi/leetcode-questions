@@ -1,6 +1,4 @@
-package collections.List.LinkedList.interalImpl;
-
-import com.collections.list.implementations.SingleyLinkedList;
+package collections.List.LinkedList.internalImplementations;
 
 public class SinglyLinkedList {
 
@@ -157,5 +155,4 @@ public class SinglyLinkedList {
         }
         return null;
     }
-
 }

@@ -1,0 +1,12 @@
+| Pattern                                  | Covered? | Core Problems                                                            |
+| ---------------------------------------- | -------- | ------------------------------------------------------------------------ |
+| ✅ **Sliding Window**                     | Yes      | Longest Substring Without Repeating Characters, Minimum Window Substring |
+| ✅ **Two Pointers**                       | Yes      | Valid Parentheses, Palindromic Substrings                                |
+| ✅ **Hashing / Frequency Counting**       | Yes      | Group Anagrams, Valid Anagram                                            |
+| ✅ **Palindrome Techniques**              | Yes      | Longest Palindromic Substring, Palindromic Substrings                    |
+| ✅ **Dynamic Programming on Strings**     | Partial  | Longest Palindromic Subsequence (not in your original 10)                |
+| ✅ **Custom String Parsing & Arithmetic** | Yes      | Multiply Strings, Roman to Integer                                       |
+| ✅ **Stack for Parsing**                  | Yes      | Valid Parentheses, Longest Valid Parentheses                             |
+| ✅ **String Transformations**             | Yes      | Zigzag Conversion                                                        |
+| ✅ **Rotation / Substring Checking**      | Yes      | Rotate String, Repeated Substring Pattern                                |
+| ✅ **Compression & Encoding**             | Yes      | String Compression, Encode and Decode Strings                            |

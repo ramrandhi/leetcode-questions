@@ -1,4 +1,4 @@
-package collections.List.LinkedList.interalImpl;
+package collections.List.LinkedList.internalImplementations;
 
 public class DLLMain {
     public static void main(String[] args) {
