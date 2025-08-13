@@ -12,6 +12,7 @@ public class ComparatorMain {
         emp.add(new Employees(3, "sukesh"));
         emp.add(new Employees(2, "kamesh"));
         Collections.sort(emp, new ComparatorOther());
+
         System.out.println(emp);
     }
 }

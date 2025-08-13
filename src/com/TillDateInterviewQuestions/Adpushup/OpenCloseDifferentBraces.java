@@ -4,7 +4,7 @@ import java.util.Stack;
 
 public class OpenCloseDifferentBraces {
     public static void main(String[] args) {
-        boolean isCorrect = checkOpenCloseBrances("(())()())");
+        boolean isCorrect = checkOpenCloseBrances("(())()()");
         System.out.println(isCorrect);
     }
     static boolean checkOpenCloseBrances(String str) {

@@ -19,14 +19,14 @@ public class MergeSortWithRecursion {
         return merge(firstHalf, lastHalf);
     }
 
-    public static int[] merge(int[] firsthalf, int[] secondHalf) {
-        int[] mix = new int[firsthalf.length + secondHalf.length];
+    public static int[] merge(int[] firstHalf, int[] secondHalf) {
+        int[] mix = new int[firstHalf.length + secondHalf.length];
         int i = 0;
         int j = 0;
         int k = 0;
-        while(i < firsthalf.length && j < secondHalf.length) {
-            if(firsthalf[i] < secondHalf[j]) {
-                mix[k] = firsthalf[i];
+        while(i < firstHalf.length && j < secondHalf.length) {
+            if(firstHalf[i] < secondHalf[j]) {
+                mix[k] = firstHalf[i];
                 i++;
             } else  {
                 mix[k] = secondHalf[j];
@@ -34,8 +34,8 @@ public class MergeSortWithRecursion {
             }
             k++;
         }
-        while(i < firsthalf.length) {
-            mix[k] = firsthalf[i];
+        while(i < firstHalf.length) {
+            mix[k] = firstHalf[i];
             i++;
             k++;
         }
