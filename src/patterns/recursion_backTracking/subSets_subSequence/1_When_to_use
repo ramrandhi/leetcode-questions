@@ -1,0 +1,11 @@
+1. when we are dealing with something that deals with permutations and combinations.
+2. also dealing with sub sets meaning non-adjacent collections.
+3. Example: [3,5,9] -> [3], [5], [9], [3,5], [3,9], [5,9], [3,5,9].
+=> the pattern of taking some elements and removing some elements is known as subsets.
+** subsets is for arrays and subsets is for strings.
+
+
+Iterative appoach:
+=> if we have duplicates, only add them in the newly created subsets but not on everything.
+=> if there are duplicates they all should be on side to each other because if there are on different levels we cannot find if
+    is already available so sort the array first.

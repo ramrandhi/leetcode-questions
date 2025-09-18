@@ -1,4 +1,4 @@
-package patterns.recursion.arrays;
+package patterns.recursion_backTracking.recursion.arrays;
 
 import java.util.ArrayList;
 import java.util.List;

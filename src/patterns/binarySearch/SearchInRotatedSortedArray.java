@@ -39,6 +39,45 @@ public class SearchInRotatedSortedArray {
         return -1;
     }
 
+    private static int findPivotWithDuplicates(int[] arr) {
+        int start = 0, end = arr.length - 1;
+
+        while (start <= end) {
+            int mid = start + (end - start) / 2;
+
+            // Case 1: mid is pivot point
+            if (mid < end && arr[mid] > arr[mid + 1]) {
+                return mid;
+            }
+            if (mid > start && arr[mid] < arr[mid - 1]) {
+                return mid - 1;
+            }
+
+            // Case 2: Duplicates at edges → shrink range
+            if (arr[start] == arr[mid] && arr[mid] == arr[end]) {
+                // Skip duplicates
+                if (start < end && arr[start] > arr[start + 1]) {
+                    return start;
+                }
+                start++;
+                if (end > start && arr[end - 1] > arr[end]) {
+                    return end - 1;
+                }
+                end--;
+            }
+            // Case 3: Left side is unsorted, pivot is there
+            else if (arr[start] > arr[mid]) {
+                end = mid - 1;
+            }
+            // Case 4: Right side is unsorted, pivot is there
+            else {
+                start = mid + 1;
+            }
+        }
+        return -1; // No rotation
+    }
+
+
     private static int searchleftHalf(int target, int[] arr, int start, int end) {
         while(start <= end) {
             int mid = start + (end - start)/2;

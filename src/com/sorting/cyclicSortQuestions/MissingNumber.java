@@ -18,8 +18,8 @@ public class MissingNumber {
             }
         }
         for(int j=0;j<nums.length;j++) {
-            if(nums[j] != j) {
-                return j;
+           if(nums[j] != j) {
+                 return j;
             }
         }
         return nums.length;

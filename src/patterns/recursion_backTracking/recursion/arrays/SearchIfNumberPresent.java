@@ -1,6 +1,6 @@
-package patterns.recursion.arrays;
+package patterns.recursion_backTracking.recursion.arrays;
 
-public class SearchIfNumberFoundI {
+public class SearchIfNumberPresent {
     public static void main(String[] args) {
         System.out.println(isNumberPresent(new int[] {1,2,3,456,89,18,26,69,180},18));
     }

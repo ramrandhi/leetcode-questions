@@ -1,4 +1,4 @@
-package patterns.recursion.basics;
+package patterns.recursion_backTracking.recursion.basics;
 
 public class SumOfDigits {
     public static void main(String[] args) {

@@ -1,0 +1,7 @@
+1. linear graphs are bipartite by default.
+2. graphs with cycles with cycle having even edges is also called bipartite graph
+3. graph with odd edges in a cycle is not bipartite because it cannot have edges that match the criteria.
+
+*. Odd-length cycles ⇒ Graph is not bipartite.
+*. Even-length cycles ⇒ Graph is bipartite.
+*. Can be solved using BFS or DFS.

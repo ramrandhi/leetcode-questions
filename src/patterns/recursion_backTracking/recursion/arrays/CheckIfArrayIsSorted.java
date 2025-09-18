@@ -1,4 +1,4 @@
-package patterns.recursion.arrays;
+package patterns.recursion_backTracking.recursion.arrays;
 
 public class CheckIfArrayIsSorted {
     public static void main(String[] args) {

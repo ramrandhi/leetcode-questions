@@ -1,4 +1,4 @@
-package patterns.recursion.basics;
+package patterns.recursion_backTracking.recursion.basics;
 
 public class Nto1 {
     public static void main(String[] args) {
